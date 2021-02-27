@@ -105,7 +105,7 @@ Access http://localhost:3000 on your browser
 # Author
 
 <div>
-  <img src="https://avatars.githubusercontent.com/u/14897195?s=460&u=26b341ce13f7195ff1aceaf3accf2f332c8c1f38&v=4" alt="Hálex Viotto Gomes" title="Hálex Viotto Gomes" style="height: 120px; border-radius: 50%;"/>
+  <img src="readme_assets/profile-photo.png" alt="Hálex Viotto Gomes" title="Hálex Viotto Gomes" />
   <p>Hálex Viotto Gomes</p>
 </div>
 
