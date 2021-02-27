@@ -25,7 +25,7 @@ export const CountdownContext = createContext({} as CountdownContextData);
 let countdownTimeout: NodeJS.Timeout;
 
 export function CountdownProvider({ children }: CountdownProviderProps) {
-  const POMODORO_TIME = 25;
+  const POMODORO_TIME = 0.1;
   const { startNewChallenge } = useContext(ChallengesContext);
 
   const [time, setTime] = useState(POMODORO_TIME * 60);
