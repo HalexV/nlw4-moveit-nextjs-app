@@ -36,7 +36,8 @@ The user gain experience and levels completing the exercises.
 
 - [x] Timer, challenges and level up system
 - [x] Responsive layout
-- [ ] Dark mode theme
+- [x] Dark mode theme
+- [ ] Layout 2.0
 - [ ] Login with Github (OAuth)
 - [ ] Ranking system
 - [ ] Sharing level up to Twitter
