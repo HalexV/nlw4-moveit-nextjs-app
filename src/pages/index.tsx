@@ -9,6 +9,7 @@ import { Profile } from "../components/Profile";
 import { ChallengeBox } from "../components/ChallengeBox";
 import { CountdownProvider } from "../contexts/CountdownContext";
 import { ChallengesProvider } from "../contexts/ChallengesContext";
+import { ThemeSwitcher } from "../components/ThemeSwitcher";
 
 interface HomeProps {
   level: number;
@@ -33,7 +34,10 @@ export default function Home(props: HomeProps) {
         <CountdownProvider>
           <section>
             <div>
-              <Profile />
+              <div>
+                <Profile />
+                <ThemeSwitcher />
+              </div>
               <CompleteChallenges />
               <Countdown />
             </div>
