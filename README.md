@@ -30,7 +30,7 @@ The user gain experience and levels completing the exercises.
 
 # Project status
 
-🚧 Under construction 🚧
+🚧 Stopped 🚧
 
 ### Features
 
